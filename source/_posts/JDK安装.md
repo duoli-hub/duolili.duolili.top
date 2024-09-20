@@ -3,11 +3,8 @@ title: JDK安装
 date: 2023-11-23 21:32:08
 tags:
   - JDK
-  - Linux
-  - 运维
 categories:
-  - "运维"
-  - Linux
+  - [运维, 中间件, JDK]
 keywords: "JDK"
 description: JDK安装教程
 ---

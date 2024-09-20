@@ -3,11 +3,8 @@ title: SubVersion
 date: 2023-11-23 21:48:13
 tags:
   - svn
-  - Linux
-  - 运维
 categories:
-  - "运维"
-  - Linux
+  - [运维, 中间件, SVN]
 keywords: "svn"
 description: "CentOS7上搭建基于Apache,http访问的SVN Server;和IF.svnadmin实现web后台可视化管理SVN"
 ---

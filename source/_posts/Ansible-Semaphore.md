@@ -3,11 +3,8 @@ title: Ansible-Semaphore
 date: 2023-11-23 21:41:08
 tags:
   - ansible
-  - Linux
-  - 运维
 categories:
-  - "运维"
-  - Linux
+  - [运维, 工具, Ansible]
 keywords: 
   - "ansible"
   - "ansible web"

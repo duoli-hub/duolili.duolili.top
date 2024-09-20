@@ -5,8 +5,7 @@ tags:
   - docker compose
   - 运维
 categories:
-  - "运维"
-  - docker
+  - [运维, 容器, Docker, Docker Compose]
 keywords: "docker"
 description: 安装 Docker Compose
 

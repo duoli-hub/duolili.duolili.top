@@ -3,16 +3,13 @@ title: MySQL基础
 date: 2023-12-01 00:23:29
 tags:
   - MySQL
-  - Linux
-  - 运维
 categories:
-  - "运维"
-  - Linux
+  - [运维, 数据库, MySQL]
 keywords: "mysql"
 description: MySQL入门
 ---
 
-# MySQL
+# 
 
 # 1. 数据库分类
 

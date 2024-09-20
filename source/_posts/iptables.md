@@ -2,13 +2,10 @@
 title: iptables
 date: 2023-11-23 16:44:45
 tags:
-  - iptable
-  - Linux
-  - 运维
+  - iptables
 categories:
-  - "运维"
-  - Linux
-keywords: "iptable"
+  - [运维, 防火墙, iptables]
+keywords: "iptables"
 description: iptables入门
 ---
 
