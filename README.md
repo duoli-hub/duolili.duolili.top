@@ -19,7 +19,7 @@ description: MySQL入门
 - keywords: 关键字
 - description: 描述
 
-关于分类
+## 1.1 关于分类
 ```shell
 # 并列分类
 categories:
